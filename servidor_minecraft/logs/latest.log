@@ -53,3 +53,19 @@
 [22:51:19] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:44336] logged in with entity id 3036 at (-632.574701933438, 72.0, -173.3384659707761)
 [22:51:19] [Server thread/INFO]: Superpro99871 joined the game
 [22:51:37] [Server thread/INFO]: [Superpro99871: The game is frozen]
+[22:54:50] [Server thread/INFO]: Superpro99871 lost connection: Timed out
+[22:54:50] [Server thread/INFO]: Superpro99871 left the game
+[22:55:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:57:29] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:60028] logged in with entity id 3299 at (-636.437810562396, 65.0, -169.28205264640474)
+[22:57:29] [Server thread/INFO]: Superpro99871 joined the game
+[22:59:14] [Server thread/INFO]: Superpro99871 lost connection: Timed out
+[22:59:14] [Server thread/INFO]: Superpro99871 left the game
+[23:00:00] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:52176] logged in with entity id 3344 at (-636.437810562396, 65.0, -169.28205264640474)
+[23:00:00] [Server thread/INFO]: Superpro99871 joined the game
+[23:00:19] [Server thread/INFO]: [Superpro99871: The game is frozen]
+[23:00:24] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/pale_oak_boat' in progress file ./world/advancements/df449938-76f9-35a4-a8b3-62849e6f1148.json - it doesn't exist anymore?
+[23:00:24] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pale_oak_boat] removed now.
+[23:00:24] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pale_oak_boat] removed now.
+[23:00:24] [Server thread/INFO]: hego994[/[0:0:0:0:0:0:0:1%0]:51280] logged in with entity id 3389 at (-638.8392012474062, 64.5625, -171.82603774558103)
+[23:00:24] [Server thread/INFO]: hego994 joined the game
+[23:02:12] [Server thread/INFO]: [Superpro99871: The game is running normally]
