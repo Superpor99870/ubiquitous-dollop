@@ -1,71 +1,53 @@
-[22:02:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:02:41] [ServerMain/INFO]: Loaded 1337 recipes
-[22:02:41] [ServerMain/INFO]: Loaded 1448 advancements
-[22:02:41] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[22:02:41] [Server thread/INFO]: Loading properties
-[22:02:41] [Server thread/INFO]: Default game type: SURVIVAL
-[22:02:41] [Server thread/INFO]: Generating keypair
-[22:02:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:02:41] [Server thread/INFO]: Using epoll channel type
-[22:02:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:02:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:02:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:02:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:02:42] [Server thread/INFO]: Preparing level "world"
-[22:02:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:02:48] [Server thread/INFO]: Time elapsed: 5854 ms
-[22:02:48] [Server thread/INFO]: Done (6.210s)! For help, type "help"
-[22:03:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:36:31] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/pale_oak_boat' in progress file ./world/advancements/7c758fa7-a557-3355-bf90-acc21a121f44.json - it doesn't exist anymore?
-[22:36:31] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pale_oak_boat] removed now.
-[22:36:31] [Server thread/INFO]: LaMamaDeMinion[/[0:0:0:0:0:0:0:1%0]:49078] logged in with entity id 44 at (-632.5328100049383, 65.0, -174.28904138249453)
-[22:36:31] [Server thread/INFO]: LaMamaDeMinion joined the game
-[22:39:01] [Server thread/INFO]: LaMamaDeMinion lost connection: Disconnected
-[22:39:01] [Server thread/INFO]: LaMamaDeMinion left the game
-[22:39:02] [Server thread/WARN]: handleDisconnection() called twice
-[22:40:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:41:12] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:52976] logged in with entity id 606 at (-360.5, 63.0, -71.5)
-[22:41:12] [Server thread/INFO]: Superpro99871 joined the game
-[22:41:29] [Server thread/INFO]: Made Superpro99871 a server operator
-[22:41:40] [Server thread/INFO]: [Superpro99871: Set own game mode to Creative Mode]
-[22:42:12] [Server thread/INFO]: Locating element minecraft:village_snowy took 0 ms
-[22:42:16] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to -687.500000, 97.245837, -207.500000]
-[22:42:39] [Server thread/INFO]: Superpro99871 has made the advancement [Cover Me with Diamonds]
-[22:42:41] [Server thread/INFO]: Superpro99871 has made the advancement [Hot Stuff]
-[22:44:20] [Server thread/INFO]: [Superpro99871: Set own game mode to Survival Mode]
-[22:44:27] [Server thread/INFO]: [Superpro99871: Set own game mode to Creative Mode]
-[22:45:56] [Server thread/INFO]: [Superpro99871: Set own game mode to Survival Mode]
-[22:51:13] [Server thread/INFO]: Superpro99871 lost connection: Timed out
-[22:51:13] [Server thread/INFO]: Superpro99871 left the game
-[22:51:13] [Server thread/WARN]: handleDisconnection() called twice
-[22:51:19] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:44336] logged in with entity id 3036 at (-632.574701933438, 72.0, -173.3384659707761)
-[22:51:19] [Server thread/INFO]: Superpro99871 joined the game
-[22:51:37] [Server thread/INFO]: [Superpro99871: The game is frozen]
-[22:54:50] [Server thread/INFO]: Superpro99871 lost connection: Timed out
-[22:54:50] [Server thread/INFO]: Superpro99871 left the game
-[22:55:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:57:29] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:60028] logged in with entity id 3299 at (-636.437810562396, 65.0, -169.28205264640474)
-[22:57:29] [Server thread/INFO]: Superpro99871 joined the game
-[22:59:14] [Server thread/INFO]: Superpro99871 lost connection: Timed out
-[22:59:14] [Server thread/INFO]: Superpro99871 left the game
-[23:00:00] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:52176] logged in with entity id 3344 at (-636.437810562396, 65.0, -169.28205264640474)
-[23:00:00] [Server thread/INFO]: Superpro99871 joined the game
-[23:00:19] [Server thread/INFO]: [Superpro99871: The game is frozen]
-[23:00:24] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/pale_oak_boat' in progress file ./world/advancements/df449938-76f9-35a4-a8b3-62849e6f1148.json - it doesn't exist anymore?
-[23:00:24] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pale_oak_boat] removed now.
-[23:00:24] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pale_oak_boat] removed now.
-[23:00:24] [Server thread/INFO]: hego994[/[0:0:0:0:0:0:0:1%0]:51280] logged in with entity id 3389 at (-638.8392012474062, 64.5625, -171.82603774558103)
-[23:00:24] [Server thread/INFO]: hego994 joined the game
-[23:02:12] [Server thread/INFO]: [Superpro99871: The game is running normally]
+[23:17:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:17:17] [ServerMain/INFO]: Loaded 1337 recipes
+[23:17:17] [ServerMain/INFO]: Loaded 1448 advancements
+[23:17:18] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:17:18] [Server thread/INFO]: Loading properties
+[23:17:18] [Server thread/INFO]: Default game type: SURVIVAL
+[23:17:18] [Server thread/INFO]: Generating keypair
+[23:17:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:17:19] [Server thread/INFO]: Using epoll channel type
+[23:17:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:17:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:17:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:17:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:17:20] [Server thread/INFO]: Preparing level "world"
+[23:17:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:31] [Server thread/INFO]: Time elapsed: 9624 ms
+[23:17:31] [Server thread/INFO]: Done (11.304s)! For help, type "help"
+[23:17:52] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:58166] logged in with entity id 3 at (-594.047460973847, 62.5875, -212.68383975088582)
+[23:17:53] [Server thread/INFO]: Superpro99871 joined the game
+[23:17:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4062ms or 81 ticks behind
+[23:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4333ms or 86 ticks behind
+[23:18:17] [Server thread/INFO]: Superpro99871 has made the advancement [We Need to Go Deeper]
+[23:18:35] [Server thread/INFO]: [Superpro99871: Set own game mode to Creative Mode]
+[23:19:44] [Server thread/INFO]: Superpro99871 has completed the challenge [Cover Me in Debris]
+[23:20:01] [Server thread/INFO]: [Superpro99871: Set own game mode to Survival Mode]
+[23:20:22] [Server thread/INFO]: Superpro99871 has made the advancement [Crafting a New Look]
+[23:20:43] [Server thread/INFO]: [Superpro99871: Gave 1 [Cactus] to Superpro99871]
+[23:21:46] [Server thread/INFO]: hego994[/[0:0:0:0:0:0:0:1%0]:41116] logged in with entity id 997 at (-640.3000000119209, 65.0, -174.5516430836224)
+[23:21:46] [Server thread/INFO]: hego994 joined the game
+[23:23:41] [Server thread/INFO]: hego994 was slain by Superpro99871
+[23:25:15] [Server thread/INFO]: Superpro99871 has made the advancement [Not Today, Thank You]
+[23:25:21] [Server thread/INFO]: Superpro99871 has made the advancement [Monster Hunter]
+[23:26:34] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to hego994]
