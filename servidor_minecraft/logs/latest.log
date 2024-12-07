@@ -44,3 +44,12 @@
 [22:42:16] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to -687.500000, 97.245837, -207.500000]
 [22:42:39] [Server thread/INFO]: Superpro99871 has made the advancement [Cover Me with Diamonds]
 [22:42:41] [Server thread/INFO]: Superpro99871 has made the advancement [Hot Stuff]
+[22:44:20] [Server thread/INFO]: [Superpro99871: Set own game mode to Survival Mode]
+[22:44:27] [Server thread/INFO]: [Superpro99871: Set own game mode to Creative Mode]
+[22:45:56] [Server thread/INFO]: [Superpro99871: Set own game mode to Survival Mode]
+[22:51:13] [Server thread/INFO]: Superpro99871 lost connection: Timed out
+[22:51:13] [Server thread/INFO]: Superpro99871 left the game
+[22:51:13] [Server thread/WARN]: handleDisconnection() called twice
+[22:51:19] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:44336] logged in with entity id 3036 at (-632.574701933438, 72.0, -173.3384659707761)
+[22:51:19] [Server thread/INFO]: Superpro99871 joined the game
+[22:51:37] [Server thread/INFO]: [Superpro99871: The game is frozen]
