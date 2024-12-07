@@ -352,6 +352,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_rabbit": "2024-12-07 23:39:56 +0000",
       "baked_potato": "2024-12-06 15:20:57 +0000",
       "carrot": "2024-12-06 15:10:25 +0000"
     },
@@ -407,7 +408,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2024-12-06 15:13:06 +0000"
+      "minecraft:zombie": "2024-12-06 15:13:06 +0000",
+      "minecraft:drowned": "2024-12-07 23:41:34 +0000"
     },
     "done": false
   },
