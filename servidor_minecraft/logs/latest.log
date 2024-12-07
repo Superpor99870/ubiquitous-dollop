@@ -28,3 +28,19 @@
 [22:02:48] [Server thread/INFO]: Time elapsed: 5854 ms
 [22:02:48] [Server thread/INFO]: Done (6.210s)! For help, type "help"
 [22:03:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:36:31] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/pale_oak_boat' in progress file ./world/advancements/7c758fa7-a557-3355-bf90-acc21a121f44.json - it doesn't exist anymore?
+[22:36:31] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pale_oak_boat] removed now.
+[22:36:31] [Server thread/INFO]: LaMamaDeMinion[/[0:0:0:0:0:0:0:1%0]:49078] logged in with entity id 44 at (-632.5328100049383, 65.0, -174.28904138249453)
+[22:36:31] [Server thread/INFO]: LaMamaDeMinion joined the game
+[22:39:01] [Server thread/INFO]: LaMamaDeMinion lost connection: Disconnected
+[22:39:01] [Server thread/INFO]: LaMamaDeMinion left the game
+[22:39:02] [Server thread/WARN]: handleDisconnection() called twice
+[22:40:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:41:12] [Server thread/INFO]: Superpro99871[/[0:0:0:0:0:0:0:1%0]:52976] logged in with entity id 606 at (-360.5, 63.0, -71.5)
+[22:41:12] [Server thread/INFO]: Superpro99871 joined the game
+[22:41:29] [Server thread/INFO]: Made Superpro99871 a server operator
+[22:41:40] [Server thread/INFO]: [Superpro99871: Set own game mode to Creative Mode]
+[22:42:12] [Server thread/INFO]: Locating element minecraft:village_snowy took 0 ms
+[22:42:16] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to -687.500000, 97.245837, -207.500000]
+[22:42:39] [Server thread/INFO]: Superpro99871 has made the advancement [Cover Me with Diamonds]
+[22:42:41] [Server thread/INFO]: Superpro99871 has made the advancement [Hot Stuff]
