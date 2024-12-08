@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_ocean": "2024-12-06 15:00:24 +0000",
+      "minecraft:frozen_river": "2024-12-08 00:53:26 +0000",
       "minecraft:snowy_plains": "2024-12-06 15:05:28 +0000",
       "minecraft:snowy_taiga": "2024-12-06 14:58:26 +0000",
       "minecraft:snowy_beach": "2024-12-06 15:02:27 +0000"
@@ -1231,6 +1232,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-08 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-08 00:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-08 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-08 00:44:58 +0000"
@@ -1240,6 +1259,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-08 00:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-08 00:55:49 +0000"
     },
     "done": true
   },
