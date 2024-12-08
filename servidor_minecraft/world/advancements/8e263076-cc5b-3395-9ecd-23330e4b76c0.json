@@ -714,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-08 00:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-07 23:36:01 +0000"
@@ -735,6 +741,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-07 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-08 00:13:30 +0000"
     },
     "done": true
   },
@@ -1021,7 +1033,8 @@
       "minecraft:spider": "2024-12-07 23:43:51 +0000",
       "minecraft:zombie": "2024-12-07 23:35:25 +0000",
       "minecraft:creeper": "2024-12-07 23:34:51 +0000",
-      "minecraft:drowned": "2024-12-07 23:41:31 +0000"
+      "minecraft:drowned": "2024-12-07 23:41:31 +0000",
+      "minecraft:slime": "2024-12-08 00:13:55 +0000"
     },
     "done": false
   },
@@ -1040,6 +1053,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-07 23:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-08 00:13:56 +0000"
     },
     "done": true
   },
@@ -1292,6 +1311,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-08 00:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-08 00:13:56 +0000"
     },
     "done": true
   },
